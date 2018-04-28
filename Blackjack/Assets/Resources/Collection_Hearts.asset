@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac14970adfb76654e913544f7fb496e9, type: 3}
+  m_Name: Collection_Hearts
+  m_EditorClassIdentifier: 
+  Collection:
+  - {fileID: 21300000, guid: 3e01d7bfad1d58840acb3c71756f06a6, type: 3}
+  - {fileID: 21300000, guid: 21e61bb44d3ca7e4cb0d7d6409f851f3, type: 3}
+  - {fileID: 21300000, guid: 0503d18cc19595740a15ffc3ec8b3c2f, type: 3}
+  - {fileID: 21300000, guid: 74735b95706977b46a58892790ee2a71, type: 3}
+  - {fileID: 21300000, guid: 56ed169ca9838f5419f84f27e3576a64, type: 3}
+  - {fileID: 21300000, guid: 207fa7d1861ecb34e85665d0aa96294d, type: 3}
+  - {fileID: 21300000, guid: 361c7b06494e1484e893f89b0eb92757, type: 3}
+  - {fileID: 21300000, guid: 77786b90cb0ba26468b540933162b347, type: 3}
+  - {fileID: 21300000, guid: 0c4beddb115c4474993d7a3defd92be3, type: 3}
+  - {fileID: 21300000, guid: 77b119d3b12acfb42b964f3cf84b58ad, type: 3}
+  - {fileID: 21300000, guid: 6de877248603edf4e89a194cf8d8afc4, type: 3}
+  - {fileID: 21300000, guid: 64a07a119b0b3384682ab1147fbd33f5, type: 3}
+  - {fileID: 21300000, guid: bf6db81eec1c59f429530b641648bd65, type: 3}
