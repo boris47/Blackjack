@@ -118,6 +118,7 @@ public class Card : MonoBehaviour, IPointerClickHandler, IBeginDragHandler, IDra
 		InDeck = true;
 
 		transform.SetParent( UI.Instance.Deck.transform );
+		transform.SetAsFirstSibling();
 		transform.localPosition = Vector3.zero;
 		transform.localRotation = Quaternion.identity;
 
