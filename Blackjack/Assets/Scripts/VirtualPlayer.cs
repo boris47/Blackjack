@@ -158,7 +158,7 @@ public class VirtualPlayer : MonoBehaviour {
 		}
 
 
-		float randomValue = Random.value * m_Courage;
+		float randomValue = Random.value;
 
 		// Card
 		if ( currentPoints < 20 && randomValue > 0.4f )
